@@ -41,4 +41,4 @@ public class EbayCartActions {
 	public void Addtocart(){
 		EbayCartLocatorsobj.btnaddcart.click();
 	}
-}
+}//this change for github 
